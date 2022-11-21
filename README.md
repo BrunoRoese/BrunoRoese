@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @BrunoRoese
-- 👀 I’m interested in coffe and sports
-- 🌱 I’m currently learning Spring, Java and Angular
-- 📫 How to reach me brunoroese@icloud.com
